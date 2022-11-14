@@ -9,4 +9,10 @@
 | 20120588 | Lê Quang Thọ |  20120588@student.hcmus.edu.vn | 
 | 19120633 | Nguyễn Anh Quốc |  19120633@student.hcmus.edu.vn | 
 
-### 2. Công cụ Crawl:
+### 2. Các công cụ Crawl:
+- Pandas
+- Numpy
+- Scrapy
+- Matplotlib
+### 3. Nguồn dữ liệu: 
+https://www.autotrader.co.uk/car-search
