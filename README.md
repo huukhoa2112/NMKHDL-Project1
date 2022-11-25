@@ -28,6 +28,7 @@ Vậy là dữ liệu cho phép thu thập.
 - Model: mô hình của xe.
 - Variant: biến thể từ mô hình của xe.
 - Series: dòng xe.
+- Year: năm sản xuất xe.
 - Gearbox: loại hộp số của xe.
 - Body type: loại thiết kế của xe.
 - Fuel type: loại xăng dầu.
