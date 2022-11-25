@@ -21,7 +21,22 @@ https://www.autotrader.com.au/for-sale
 
 Vậy là dữ liệu cho phép thu thập.
 #### b. Các thuộc tính của dữ liệu:
-
+![Uploading image.png…]()
+- ID: mã xe.
+- Name: tên xe.
+- Price: giá xe.
+- Brand: hãng xe.
+- Model: mô hình của xe.
+- Variant: biến thể từ mô hình của xe.
+- Series: dòng xe.
+- Gearbox: loại hộp số của xe.
+- Body type: loại thiết kế của xe.
+- Fuel type: loại xăng dầu.
+- Status: tình trạng chiếc xe (mới hoặc đã sử dụng).
+- Kilometers: số km xe đi được (xe mới thì thuộc tính này bằng 0).
+- CC: số phân khối của xe.
+- Color: màu sắc của xe.
+- Seating Capacity: số chỗ ngồi.
 ### 4. Khám phá dữ liệu:
 #### a. Chủ đề: 
 Khám phá các dòng xe được bán tại AustraliaAustralia.
