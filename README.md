@@ -21,7 +21,6 @@ https://www.autotrader.com.au/for-sale
 
 Vậy là dữ liệu cho phép thu thập.
 #### b. Các thuộc tính của dữ liệu:
-![Uploading image.png…]()
 - ID: mã xe.
 - Name: tên xe.
 - Price: giá xe.
