@@ -25,7 +25,7 @@ Vậy là dữ liệu cho phép thu thập.
 - Name: tên xe.
 - Price: giá xe.
 - Brand: hãng xe.
-- Model: mô hình của xe.
+- Model: đời xe.
 - Variant: biến thể từ mô hình của xe.
 - Series: dòng xe.
 - Year: năm sản xuất xe.
