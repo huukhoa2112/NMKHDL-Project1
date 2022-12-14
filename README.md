@@ -41,4 +41,5 @@ Vậy là dữ liệu cho phép thu thập.
 #### a. Chủ đề: 
 Khám phá các dòng xe được bán tại AustraliaAustralia.
 #### b. Lợi ích của việc khám phá dữ liệu:
-Đem lại thông tin hữu ích cho người mua xe, muốn tìm hiểu về xe.
+Đem lại thông tin hữu ích cho người mua xe, muốn tìm hiểu về xe...
+
